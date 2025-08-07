@@ -11,7 +11,7 @@ Easily clean out those old friends you haven’t spoken to in years on Roblox.
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) if you haven’t already.  
-2. Click [here to install the script]([https://github.com/MonaraHema/Roblox-Friend-Cleaner-/raw/refs/heads/main/Roblox%20Friend%20Cleaner-1.0.user.js](https://github.com/MonaraHema/Roblox-Friend-Cleaner-/releases/download/v1.0.0/Roblox.Friend.Cleaner-1.0.user.js))
+2. Click [here to install the script](https://github.com/MonaraHema/Roblox-Friend-Cleaner-/releases/download/v1.0.0/Roblox.Friend.Cleaner-1.0.user.js)
 
 ## Usage
 
