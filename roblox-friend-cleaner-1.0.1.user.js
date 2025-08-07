@@ -7,8 +7,8 @@
 // @match        https://www.roblox.com/*friends*
 // @match        https://www.roblox.com/users/*/friends*
 // @grant        none
-// @downloadURL  https://github.com/MonaraHema/Roblox-Friend-Cleaner-/releases/download/v1.0.0/roblox-friend-cleaner.user.js
-// @updateURL    https://github.com/MonaraHema/Roblox-Friend-Cleaner-/releases/download/v1.0.0/roblox-friend-cleaner.user.js
+// @downloadURL https://github.com/MonaraHema/Roblox-Friend-Cleaner-/releases/download/v1.0.1/roblox-friend-cleaner-1.0.1.user.js
+// @updateURL   https://github.com/MonaraHema/Roblox-Friend-Cleaner-/releases/download/v1.0.1/roblox-friend-cleaner-1.0.1.user.js
 // ==/UserScript==
 
 (() => {
