@@ -3,6 +3,7 @@
 // @namespace    https://monarahema.github.io/
 // @version      1.0.0
 // @description  Easily unfriend old Roblox friends in bulk
+// @author       MonaraHema
 // @match        https://www.roblox.com/*friends*
 // @match        https://www.roblox.com/users/*/friends*
 // @grant        none
