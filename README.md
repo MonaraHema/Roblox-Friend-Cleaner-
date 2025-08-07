@@ -9,7 +9,7 @@ Easily clean out those old friends you haven't spoken to in years on Roblox.
 
 ## Installation
 1. Install [Tampermonkey](https://www.tampermonkey.net/) if you haven’t already.
-2. Click [here to install the script]()
+2. Click [here to install the script](https://github.com/MonaraHema/Roblox-Friend-Cleaner-/blob/main/Roblox%20Friend%20Cleaner-1.0.user.js)
 
 ## Usage
 Go to your Roblox friends page, and you'll see additional options to select and unfriend multiple users.
