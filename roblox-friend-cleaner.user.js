@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Roblox Friend Cleaner
 // @namespace    https://monarahema.github.io/
-// @version      1.0.2
+// @version      1.0.3
 // @description  Easily unfriend old Roblox friends in bulk
 // @author       MonaraHema
 // @match        https://www.roblox.com/*friends*
