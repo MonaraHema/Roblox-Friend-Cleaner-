@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Roblox Friend Cleaner
-// @namespace    monara.tools
-// @version      1.0
-// @description  Did you as a kid friend a bunch of people on roblox? well now you can undo that! with ease or smth
+// @namespace    https://monarahema.github.io/
+// @version      1.0.0
+// @description  Easily unfriend old Roblox friends in bulk
 // @match        https://www.roblox.com/*friends*
 // @match        https://www.roblox.com/users/*/friends*
 // @grant        none
+// @downloadURL  https://github.com/MonaraHema/Roblox-Friend-Cleaner-/releases/download/v1.0.0/roblox-friend-cleaner.user.js
+// @updateURL    https://github.com/MonaraHema/Roblox-Friend-Cleaner-/releases/download/v1.0.0/roblox-friend-cleaner.user.js
 // ==/UserScript==
 
 (() => {
